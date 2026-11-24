@@ -9,7 +9,7 @@ public class EcommController {
 
 	@GetMapping
 	public String getCheck() {
-		return "Ecomm API working";
+		return "This is developer1 branch";
 	}
 	
 
